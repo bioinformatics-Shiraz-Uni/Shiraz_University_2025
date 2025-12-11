@@ -7,15 +7,27 @@ This repository contains workshops and presentations for the Bioinformatics cour
 - **Workshop/**: Contains Jupyter notebooks (.ipynb) organized by chapter
 - **Presentation/**: Contains PowerPoint presentations organized by chapter
 
-## 📚 Chapters
+## 📚 Chapters(Workshop materials)
 
-### Chapter 1: Introduction
-- Workshop materials
-- Student presentations
+### Chapter 1: Introduction to Bioinformatics
 
-### Chapter 2: DNA Sequence Analysis
-- Workshop materials
-- Student presentations
+### Chapter 2: Bioinformatics Databases
+
+### Chapter 3: Bioinformatics Databases
+
+### Chapter 4: Bioinformatics Databases
+
+### Chapter 5: Bioinformatics Databases
+
+### Chapter 6: Bioinformatics Databases
+
+### Chapter 7: Bioinformatics Databases
+
+### Chapter 8: Bioinformatics Databases
+
+### Chapter 9: Bioinformatics Databases
+
+### Chapter 11: Bioinformatics Databases
 
 ## 👨‍🎓 How to Use
 
