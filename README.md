@@ -4,36 +4,32 @@ This repository contains workshops and presentations for the Bioinformatics cour
 
 ## 📁 Structure
 
-- **Workshop/**: Contains Jupyter notebooks (.ipynb) organized by chapter
-- **Presentation/**: Contains PowerPoint presentations organized by chapter
+- **Workshop/**: Contains Jupyter notebooks (.ipynb) organized by chapter ( Xiong, Essential Bioinformatics)
+- **Presentation/**: Contains PowerPoint presentations organized by chapter (Bioinformatics Algorithms: An Active Learning Approach)
 
-## 📚 Chapters(Workshop materials)
+## 📚 Chapters(Workshop materials) --> Based on the book of Xiong, Essential Bioinformatics
 
 ### Chapter 1: Introduction to Bioinformatics
 
 ### Chapter 2: Bioinformatics Databases
 
-### Chapter 3: Bioinformatics Databases
+### Chapter 3: Pairwise Sequence Alignment
 
-### Chapter 4: Bioinformatics Databases
+### Chapter 4: Database Similarity Search 
 
-### Chapter 5: Bioinformatics Databases
+### Chapter 5: Multiple sequence alignment and profiles
 
-### Chapter 6: Bioinformatics Databases
+### Chapter 6: Evolution and Phylogenetics 
 
-### Chapter 7: Bioinformatics Databases
+### Chapter 7: Gene prediction
 
-### Chapter 8: Bioinformatics Databases
+### Chapter 8: Protein secondary structure, comparison and classification
 
-### Chapter 9: Bioinformatics Databases
+### Chapter 9: Protein secondary structure prediction
 
-### Chapter 11: Bioinformatics Databases
+### Chapter 11: RNA function and secondary structure
 
-## 👨‍🎓 How to Use
 
-1. Navigate to the desired chapter folder
-2. Open the Jupyter notebooks for hands-on practice
-3. View presentations for theoretical concepts
 
 ## 📧 Contact
 
